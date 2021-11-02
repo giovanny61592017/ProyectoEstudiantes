@@ -2,18 +2,14 @@
 Trabajo Colaborativo
 ===============
 
-Add a short description here!
+Grupo de Seleccion de Estudiante por los integrantes del Grupo 103
 
 Description
 ===========
-A longer description of your project goes here...
-.. _pyscaffold-notes:
+En este trabajo se esta presentando todo el programa como todo el trabajo por cada uno de los integrantes respetando las pautas del profesor
 
-Note
+Tabla de Backlog
 ====
-
-This project has been set up using PyScaffold 4.0.1. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
 
 Prioridad|	Identificador	|Nombre historia de usuario	|Puntos de historia	|PH acumulado		|0	True
 
